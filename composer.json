@@ -1,0 +1,17 @@
+{
+    "name": "himeji/routing",
+    "description": "Routing code for the Himeji framework.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "hicks6408",
+            "email": "hicks6408@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Himeji\\Routing\\": "src/"
+        }
+    }
+}
